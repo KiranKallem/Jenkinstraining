@@ -15,7 +15,6 @@ public class Test3
 			System.out.println("leassthen then 5");
 		}
 		
-test
 	}
 
 }
